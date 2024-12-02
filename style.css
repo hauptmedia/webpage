@@ -282,3 +282,7 @@ blockquote {
 .hidden {
   display: none !important;
 }
+
+#faq p {
+  margin-top: 1rem;
+}
